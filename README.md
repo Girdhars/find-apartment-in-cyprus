@@ -2,7 +2,7 @@
 this project will help you to find the apartment in cyprus from bazaraki web site
 
 1. pre-requisite 
-  Java8 must be installed on your machine and set JAVA_HOME env variable and and java to CLASPATH
+  Java8 must be installed on your machine, JAVA_HOME env variable must be there and and java must be there in CLASSPATH
   
 2. download the find-my-apartment.zip file at your local machine
 
