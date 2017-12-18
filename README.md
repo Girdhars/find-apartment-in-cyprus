@@ -1,2 +1,2 @@
 # find-apartment-in-cyprus
-this code base will help you to find the apartment in cyprus
+this project will help you to find the apartment in cyprus
