@@ -1,8 +1,8 @@
 # find-apartment-in-cyprus
-this project will help you to find the apartment in cyprus from bazaraki web site
+this project will help you to find the apartment in cyprus from bazaraki web site. Application will provide you the newly posted add on bazaraki web site.
 
 1. pre-requisite 
-  Java8 must be installed on your machine, JAVA_HOME env variable must be there and and java must be there in CLASSPATH
+  Java8 must be installed on your machine, JAVA_HOME env variable must be there and and java must be there in PATH env variable.
   
 2. download the find-my-apartment.zip file at your local machine
 
@@ -21,6 +21,3 @@ this project will help you to find the apartment in cyprus from bazaraki web sit
    you will get alart notification on your machine when the new apartment is available. and the url of newly appartment will be published    on your console
    
    NOTE: application will open a chrome browser. don't close the browser. If you close the browser it will not going to find appart for      you.
-  
-  
-    
