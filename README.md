@@ -15,6 +15,8 @@ this project will help you to find the apartment in cyprus from bazaraki web sit
 
 5. it will prompt for "your search criteria", please provide the search criteria, go to bazaraki site. apply your filters and get the url    in URL bar e.g. https://www.bazaraki.com/real-estate/houses-and-villas-rent/number-of-bedrooms---2/?price_max=800&city_districts=5693&city_districts=5699&city_districts=5694
 
+  note: make sure your search criteria must contain search result in a single page. If your search result in more than one page. apply more filters :) reduce it to one page. multipage functionality is not yet implemented in application ;) 
+
 6. it will prompt for "schedular time", how frequently you want to get the alert, please provie the time in minute.
    you will get alart notification on your machine when the new apartment is available. and the url of newly appartment will be published    on your console
    
