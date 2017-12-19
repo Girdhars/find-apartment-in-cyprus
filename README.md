@@ -1,5 +1,5 @@
 # find-apartment-in-cyprus
-this project will help you to find the apartment in cyprus from bazaraki web site. Application will provide you the newly posted add on bazaraki web site.
+this project will help you to find the apartment in cyprus from bazaraki web site. Application will provide you the newly posted add on bazaraki web site. (not only apartment, you can provide any search criteria url, It'll provide you the newly posted add)
 
 1. pre-requisites -  
   Java8 must be installed on your machine, JAVA_HOME env variable must be there and and java must be there in PATH env variable.
